@@ -20,7 +20,7 @@
 
 [3D pipes Windows XP screensaver on Babylon.js! (Version 3 - A version of static multicolored lines) | Babylon.js Playground](https://playground.babylonjs.com/#YQLR1J#1)
 
-Бесконченая процедурная генеарция отрещков линий.
+Бесконченая процедурная генеарция отрезков линий.
 
 [3D pipes Windows XP screensaver on Babylon.js! (Version 4 - Infinitely generated smooth line segments) | Babylon.js Playground](https://playground.babylonjs.com/#J50EHF#0)
 
