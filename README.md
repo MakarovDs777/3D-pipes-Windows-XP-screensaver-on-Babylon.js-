@@ -4,7 +4,7 @@
 
 [3D pipes Windows XP screensaver on Babylon.js! (Version 0 - Curved pipe strips) | Babylon.js Playground](https://playground.babylonjs.com/#BKMJCC#2)
 
-[3D pipes Windows XP screensaver on Babylon.js! (Version 1 - Full version) | Babylon.js Playground](https://playground.babylonjs.com/#X6ROZA#0)
+[3D pipes Windows XP screensaver on Babylon.js! (Version 1 - Full version) | Babylon.js Playground](https://playground.babylonjs.com/#X6ROZA#1)
 
 [3D pipes Windows XP screensaver on Babylon.js! (Version 2 - The version with smooth trajectories) | Babylon.js Playground](https://playground.babylonjs.com/#0OZWBB#1)
 
